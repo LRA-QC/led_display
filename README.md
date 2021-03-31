@@ -21,5 +21,9 @@ The program should be fast for the little thing it does but it was optimized for
 
 To print a number, supply the number to the program when you call it
 
-./led <number>
+  ie: 
+  ./led 2021
+ 
+ 
+  
   
