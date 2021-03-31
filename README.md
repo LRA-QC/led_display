@@ -17,4 +17,9 @@ Instead of doing any memory allocation, the digits are rendered from left to rig
 
 The program should be fast for the little thing it does but it was optimized for size and not speed.
 
+# Running
 
+To print a number, supply the number to the program when you call it
+
+./led <number>
+  
